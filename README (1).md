@@ -29,7 +29,7 @@ apple store description2,apple store description 3,apple store description4 and 
 3.Categories like finance and book have lower user ratings, indicating market opportunity.
 4.App description length has a positive correlation with user ratings.
 5.On average, all apps have a rating of 3.5, so aiming for a higher rating is recommended.
-6.Higher than average rating for games and entertainment categories
+6.Higher than average rating for games and entertainment categories.
 7.High volume of UPS suggests saturated market with high competition and user demand
 
 
