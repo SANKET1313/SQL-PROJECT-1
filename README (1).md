@@ -17,7 +17,7 @@ apple store description2,apple store description 3,apple store description4 and 
 
 
 ## Approach Used
-
+The approaches is used in the analysis are the data cleaning, data wrangling, data manipulation and feature engineering techniques methods are used in it.
 
 
 
@@ -43,12 +43,21 @@ apple store description2,apple store description 3,apple store description4 and 
 
 
 1.Check the number of unique apps in both table applestoreAppleStore ?
+
 2.Check for any missing values in key fields ?
+
 3.Find out the number of apps per genre ?
+
 4.Get an overview of the apps ratings ?
+
 5.Get the distribution of app prices ?
+
 6.Determine whether paid apps higher rating than free appsAppleStore ?
+
 7.check if apps with more supported languages have higher ratingsAppleStore ?
+
 8.Check genres with low ratingsAppleStore ?
+
 9.check if there is correlation between the length of the app description and the user rating ?
+
 10.check the top-rated apps for each genre ?
